@@ -26,3 +26,15 @@ mix:
 5. fifth
 + super random
 6. sixth
+
+``inline code``
+
+```def codeblock_example():
+print("Hello world!")```
+
+
+with the programming language specified:
+
+```python
+def codeblock_example():
+print("Hello world!")
