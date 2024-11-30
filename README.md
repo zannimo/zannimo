@@ -27,10 +27,13 @@ mix:
 + super random
 6. sixth
 
-``inline code``
+`inline code`
 
-```def codeblock_example():
-print("Hello world!")```
+```
+def codeblock_example():
+print("Hello world!")
+
+```
 
 
 with the programming language specified:
@@ -38,3 +41,13 @@ with the programming language specified:
 ```python
 def codeblock_example():
 print("Hello world!")
+```
+
+wih indentation:
+
+    def codeblock_example():
+    print("Hello world!")   
+
+got it?
+
+
